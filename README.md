@@ -13,9 +13,9 @@ Data from ISIC Archive obtained here: https://www.kaggle.com/fanconic/skin-cance
 Recent state of the art convoloutional net with roughly 93% accuracy (also shows summary of all state of the art attempts) : Sagaer, A and Jacob,D. Convolutional Neural Networks for Classifying Melanoma Images. Link: https://abhinavsagar.github.io/files/skin_cnn.pdf
 2017 net with precision of 79 percent: R. Lopez, X. Giro-i Nieto, J. Burdick, and O. Marques. Skin lesion classification from dermoscopic images using deep learning techniques. In 2017 13th IASTED international 
 conference on biomedical engineering (BioMed), pages 49–54. IEEE, 2017. Link: https://upcommons.upc.edu/bitstream/handle/2117/103386/biomed-2017-paper.pdf;jsessionid=9104F701F155BC154C9A231FB22EFE6D?sequence=1
-G. Argenziano and H. P. Soyer, “Dermoscopy of pigmented skin lesions–a valuable tool for early diagnosis of melanoma,” The Lancet Oncology, vol. 2, no. 7, pp. 443–449, 2001.
+Accuracy of dermatologists in skin cancer detection: G. Argenziano and H. P. Soyer, “Dermoscopy of pigmented skin lesions–a valuable tool for early diagnosis of melanoma,” The Lancet Oncology, vol. 2, no. 7, pp. 443–449, 2001.
 Link: https://moh-it.pure.elsevier.com/en/publications/dermoscopy-of-pigmented-skin-lesions-a-valuable-tool-for-early-di
-Execute the JAR file to see the project in operation. This project was made with NetBeans 8.2.
+Execute the JAR file to see the project in operation. This project was made using the  NetBeans 8.2 IDE.
 
 
 

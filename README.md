@@ -16,6 +16,8 @@ Recent state of the art convoloutional net with roughly 93% accuracy (also shows
 conference on biomedical engineering (BioMed), pages 49–54. IEEE, 2017. Link: https://upcommons.upc.edu/bitstream/handle/2117/103386/biomed-2017-paper.pdf;jsessionid=9104F701F155BC154C9A231FB22EFE6D?sequence=1
 Accuracy of dermatologists in skin cancer detection: G. Argenziano and H. P. Soyer, “Dermoscopy of pigmented skin lesions–a valuable tool for early diagnosis of melanoma,” The Lancet Oncology, vol. 2, no. 7, pp. 443–449, 2001.
 Link: https://moh-it.pure.elsevier.com/en/publications/dermoscopy-of-pigmented-skin-lesions-a-valuable-tool-for-early-di
+Resource showing overall accuracy of melanoma diagnosis amongst physicians is 64%: Kopf AW, Mintzis M, Bart RS. Diagnostic accuracy in malignant melanoma. Arch Dermatol. 1975 Oct;111(10):1291-2. PMID: 1190800. https://pubmed.ncbi.nlm.nih.gov/1190800/#:~:text=The%20diagnostic%20accuracy%20of%20the%20physicians%20in%20the,to%20malignant%20melanoma%20in%20our%20series%20was%2096%25.
+Resource showing accuracy of melanoma diagnosis varies from 80% for highly experienced (10 or more years of experience) dermatoligsits to 62% for those with 3-5 years of experience to 56% for those with 1-2 years of experience: Morton, and Mackie, (1998), Clinical accuracy of the diagnosis of cutaneous malignant melanoma. British Journal of Dermatology, 138: 283-287. https://doi.org/10.1046/j.1365-2133.1998.02075.x  https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2133.1998.02075.x
 Execute the JAR file to see the project in operation. This project was made using the  NetBeans 8.2 IDE.
 
 

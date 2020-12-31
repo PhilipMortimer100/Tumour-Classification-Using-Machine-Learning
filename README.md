@@ -1,4 +1,5 @@
 # Tumour-Classification-Using-Machine-Learning
+To run the system: Download and extract the zip file onto your computer. Run the file "AITumourClasification.jar". It may be that you need to install a java runtime environment to execte the file.
 In this project, I make use of my own artificial neural network library to train a neural network to classify tumours as malignant or benign (i.e. cancerous or not).
 My system outperforms dermatologists (who perform at 65-80% accuracy) and some recent state of the art attempts (with benchmark systems from 2016 and 2017 achieving 79% accuracy).
 My system has a classification accuracy of 82.6 percent. Although it is slightly less accurate than the best systems, which achieve an accuracy of 93 percent.
